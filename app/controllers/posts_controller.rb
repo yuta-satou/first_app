@@ -4,7 +4,7 @@ class PostsController < ApplicationController
   end
 
   def new
-    @post = Post.find(:id)
+    
   end
 
   def create
